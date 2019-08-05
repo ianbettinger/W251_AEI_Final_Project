@@ -6,6 +6,8 @@ Leverage two models for identifying cars that can be used in identifying cars fr
 * ALPR - Automatic License Plate Recongition
 
   *leveraging https://github.com/sergiomsilva/alpr-unconstrained* 
+
+ - To run the ALPR, python lp-extractor-video.py [inputVideoLocation] [outputFolder]
   
 * Car Recognition 
 
